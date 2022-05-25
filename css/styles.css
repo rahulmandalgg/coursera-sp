@@ -1,0 +1,47 @@
+body {
+  font-size: 20px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+#header-nav {
+  background-color: #696969;
+  border-radius: 0;
+  border: 2px solid;
+}
+
+.navbar-brand h1{
+  color: #000000;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand {
+  padding-top: 0px;
+  line-height: 50px;
+}
+
+.title {
+  text-align: center;
+}
+
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  top: 0;
+  background-color:#999999;
+  margin: 0 auto 15px;
+  padding: 25px;
+  border: 3px solid #000;
+}
